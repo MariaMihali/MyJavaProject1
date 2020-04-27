@@ -53,7 +53,6 @@ public class Lab10 {
     public static int rez5(int x,int y,int z,int u,int v) {
         return(x+y/z*u-v%z);
     }
-
     public static int addition(int firstNumber,int secondNumber) {
         return firstNumber+secondNumber;
     }
