@@ -142,11 +142,7 @@ public class LogicalOperations {
     }
 
     //Pb.4
-    public void printBiggerNumber(int firstNumber1, int secondNumber1) {
-        for (int i = firstNumber1, j = secondNumber1; i > j && i >= secondNumber1; i++, j++) {
-            System.out.println(i);
-        }
-    }
+    
 
     //Pb.5
     public void printEvenNumberToHundred(int number2) {

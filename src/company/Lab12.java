@@ -18,9 +18,7 @@ public class Lab12 {
         op.printFromFirstNumberToSecondNumber(firstNumber,secondNumber);
 
         //Pb.4
-        int firstNumber1=2;
-        int secondNumber1=8;
-        op.printBiggerNumber(firstNumber1,secondNumber1);
+
 
         //Pb.5
         int number2=1;
