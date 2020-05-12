@@ -1,6 +1,5 @@
 package company;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class Lab11 {
  public static void main(String[] args) {
@@ -39,7 +38,7 @@ public class Lab11 {
   System.out.println(op.checkNumber2(number2));
 
   //Pb.8
-  int x=6;
+  int x=7;
   System.out.println(op.returnNumber(x));
 
   //Pb. 9
